@@ -10,8 +10,8 @@ Dabbrata</a></h1>
   </a>
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a target="_blank" align="right">
+  <img align="right" height="300" width="250" alt="Image" src="https://www.pngall.com/wp-content/uploads/15/Machine-Learning-Background-PNG.png">
 </a>
 
 - 🔭 I’m currently working in the field of Computer Vision as a Researcher
